@@ -1,0 +1,6 @@
+= algo
+zzir <me@zzir.io>
+v0.1, 2019-12-24
+:toc:
+
+It's nothing...
